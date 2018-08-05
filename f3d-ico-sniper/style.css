@@ -40,7 +40,8 @@ body {
 .date {
 	font-weight: 100;
 	font-size: 13px;
-	padding-right: 20px;
+	width: 80px;
+	display: inline-block;
 }
 
 .message {
