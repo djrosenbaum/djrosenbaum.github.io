@@ -1,0 +1,1 @@
+const beep = new Audio('./beep-02.mp3');
